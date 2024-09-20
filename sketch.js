@@ -27,7 +27,7 @@ let comicSans;
 let bounces;
 
 function preload(){
-  comicSans = loadFont("assets/fonts/comic_sans.otf");
+  //comicSans = loadFont("assets/fonts/comic_sans.otf");
 }
 
 
